@@ -8,7 +8,8 @@ In Week2 there were reading resources on basics of Machine Learning
 Week3 assignment solutions are in Assignment2.ipynb
 And the dataset used is mnist.npz
 ## Week 4
-Week4 Assignment solutions are in the folder Assignment3
+Week4 Assignment solutions part1 is pizza_not_pizza.py and it's results are in pizza_not_pizza.pdf
+
 
 
 
