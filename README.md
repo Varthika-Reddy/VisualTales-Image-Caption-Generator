@@ -7,5 +7,8 @@ In Week2 there were reading resources on basics of Machine Learning
 ## Week 3
 Week3 assignment solutions are in Assignment2.ipynb
 And the dataset used is mnist.npz
+## Week 4
+Week4 Assignment solutions are in the folder Assignment3
+
 
 
