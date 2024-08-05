@@ -13,6 +13,7 @@ Solutions for part2 is in transfer-learning.py
 
 ## Final Weeks
 Final_Assignment solution is in final_assignment.ipynb
+Final_Project is in image-caption-generator-encoder-decoder.ipynb
 
 
 
